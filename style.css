@@ -1,0 +1,182 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card{
+    padding: 10px;
+    width: 600px;
+    margin: 30px auto;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.content{
+    position: relative;
+}
+.content-image{
+    width: 100%;
+    border-radius: 20px;
+}
+ .discount{
+    position: absolute;
+    bottom: 5px;
+    padding: 5px;
+    font-size: 25px;
+    background-color: #266fef;
+    color: white;
+}
+.time{
+    font-size: 20px;
+    position: absolute;
+    right: 15px;
+    bottom: 0;
+    border-radius: 2px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:white;
+   
+}
+.rest-content{
+    font-size:20px;
+}
+.rest-content p{
+    color:#9e9d9d;
+    font-size: bold;
+}
+.footer-details{
+    position: relative;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+}
+.brand-image{
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+}
+
+.footer-paragaraph p{
+    color: #9e9d9d;
+    font-size: 20px;
+    position: absolute;
+    top: -15px;
+    right: 0px;
+    left: 20%;
+}
+.second-image-task{
+    width: 800px;
+    margin: 30px auto;
+    border-radius: 5px;
+}
+.bg-img{
+    width: 100%;
+    border-radius: 10px;
+}
+.background-img{
+    position: relative;
+}
+.background-img-content h1{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    color: white;
+    font-size: 40px;
+}
+.background-img-content p{
+    position: absolute;
+    top: 35%;
+    padding-left: 10px;
+    color: white;
+    text-align: center;
+
+}
+.bg-btn{
+    position: absolute;
+    bottom: 120px;
+    padding: 20px;
+    border-radius: 26px;
+    border: none;
+    left: 40%;
+    font-size: 20px;
+}
+.third-image-task{
+  width: 95%;
+  margin: 80px auto;
+}
+.third-bg-img1{
+    width: 100%;
+    height: 600px;
+}
+.third-bg-img{
+    position: relative;
+}
+.third-img-content h1{
+    font-size: 50px;
+    position: absolute;
+    top: 0;
+    color: white;
+    padding-left: 45%;
+    padding-top: 10%;
+}
+.third-img-content p{
+    position: absolute;
+    top: 0;
+    color: white;
+    padding-left: 30%;
+    padding-top: 16%;
+    font-size: 30px;
+}
+.input-box{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    background-color: white;
+    padding-left: 20px;
+    left: 23%;
+    width: 50%;
+    bottom: 40%;
+    height: 40px;
+}
+input{
+    width: 75%;
+    padding: 10px;
+    margin-left: 20px;
+    border: none;
+  }
+  select.places {
+    border: none;
+    border-right: 1px solid black;
+    width: 100px;
+}
+.forth-img-task{
+    padding: 10px;
+    width: 600px;
+    margin: 120px auto;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.profile{
+    width: 600px;
+    margin: auto;
+    position: relative;
+}
+.cover{
+    width: 100%;
+    height: 10%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.user{
+    height: 120px;
+    position: absolute;
+    left: 40%;
+    bottom: -50px;
+    border: 4px solid white;
+    border-radius: 50%;
+}
+.details{
+    text-align: center;
+    padding: 30px;
+    
+}
+.details h3{
+    font-size: 30px;
+    color: #9e9d9d;
+}
